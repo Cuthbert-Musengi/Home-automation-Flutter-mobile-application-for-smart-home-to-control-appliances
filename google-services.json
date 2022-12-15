@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043935768938",
+    "project_id": "farihome-79556",
+    "storage_bucket": "farihome-79556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043935768938:android:218756ec7e2c0adad33513",
+        "android_client_info": {
+          "package_name": "com.example.hommeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043935768938-qg4ctd0q7m4sf3v044hkhc7p3dg9n3st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPWoNyZAKoBU4CEMGnoAiLe_5evHRW9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043935768938-qg4ctd0q7m4sf3v044hkhc7p3dg9n3st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
